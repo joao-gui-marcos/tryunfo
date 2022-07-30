@@ -8,7 +8,7 @@
 
 ## 👨‍💻 O que foi desenvolvido:
 
-  - Neste projeto desenvolvi um jogo no estilo Super Trunfo! Ao utilizar essa aplicação uma pessoa usuária é capaz de:
+  - Neste projeto desenvolvi um jogo no estilo Super Trunfo. Ao utilizar essa aplicação uma pessoa usuária é capaz de:
 
   * Criar um baralho com o tema livre;
 
