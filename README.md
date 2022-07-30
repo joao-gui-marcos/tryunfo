@@ -21,8 +21,8 @@
 
 :bulb: **Veja uma amostra a seguir:**
 
-  ![project sample](./sample1.png)
-  ![project sample](./sample2.png)
+  ![project sample](src/sample1.png)
+  ![project sample](src/sample2.png)
 
 ## Habilidades Usadas:
   * Ler o estado de um componente e usá-lo para alterar o que exibimos no browser
