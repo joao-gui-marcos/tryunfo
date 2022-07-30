@@ -10,13 +10,13 @@
 
   - Neste projeto desenvolvi um jogo no estilo Super Trunfo. Ao utilizar essa aplicação uma pessoa usuária é capaz de:
 
-  * Criar um baralho com o tema livre;
+    * Criar um baralho com o tema livre;
 
-  * Adicionar e remover uma carta do baralho;
+    * Adicionar e remover uma carta do baralho;
 
-  * Visualizar todas as cartas que foram adicionadas ao baralho;
+    * Visualizar todas as cartas que foram adicionadas ao baralho;
 
-  * Jogar com o baralho criado.
+    * Jogar com o baralho criado.
 
 
 :bulb: **Veja uma amostra a seguir:**
